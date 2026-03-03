@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello there, I'm Arshiya Tasleem</h1>  
-<h3 align="center"> 💻 Full-Stack Developer | 🧠 DSA in Java | 🚀 Hackathon Enthusiast | 📊 Aspiring Software Engineer </h3>  
+<h3 align="center"> 💻 Full-Stack Developer | 🧠 Java | 🚀 Hackathon Enthusiast | 📊 Aspiring Software Engineer </h3>  
 
 ---
 
